@@ -1,0 +1,30 @@
+# Node (Next.js frontend)
+/frontend/node_modules/
+/frontend/.next/
+/frontend/.env*
+/frontend/.turbo/
+
+# Python (backend)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+venv/
+ENV/
+.venv/
+
+# Vercel
+.vercel/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode
+.vscode/ 
