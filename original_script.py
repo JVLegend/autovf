@@ -1,5 +1,5 @@
 # Certifique-se de instalar as bibliotecas necessárias
-#pip install PyMuPDF gradio tensorflow requests opencv-python-headless pandas huggingface_hub easyocr datasets paddlepaddle-gpu==2.5.2 paddleocr==2.6.1.3
+#pip install gradio tensorflow requests opencv-python-headless pandas huggingface_hub easyocr datasets paddlepaddle-gpu==2.5.2 paddleocr==2.6.1.3
 
 import os
 import cv2
